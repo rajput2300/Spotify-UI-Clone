@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Bucket body (wider at top) -->
+  <path d="M8 18 L40 18 L35 36 H13 L8 18 Z" />
+
+  <!-- Handle (separate) -->
+  <rect x="18" y="12" width="12" height="6" />
+
+  <!-- Center oval -->
+  <ellipse cx="24" cy="27" rx="3.5" ry="2.2" fill="white" stroke="none" />
+</svg>
