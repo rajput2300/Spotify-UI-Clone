@@ -23,3 +23,7 @@ This project was built to practice:
 - CSS layouts
 - Flexbox / Grid
 - Real-world UI cloning
+
+##Homepage
+
+<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/2328966c-58ae-448e-be08-76a0a69f5424" />
